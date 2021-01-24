@@ -14,12 +14,14 @@
 
 ![pfizer_vaccine 2](https://user-images.githubusercontent.com/72686156/105625645-9da28300-5e50-11eb-859f-fceabb8caa61.jpg)
 
-### Advantages:
+### <U>Advantages:</U>
 #### Here are the advantages of using VADER which makes a lot of things easier:
-<b>•	It does not require any training data.</b><br>
-<b>•	It can very well understand the sentiment of a text containing emoticons, slangs, conjunctions, capital words, punctuations and much more.</b><br>
-<b>•	It works excellent on social media text.</b><br>
-<b>•	VADER can work with multiple domains.</b>
+<ul>
+<li><p><b>It does not require any training data.</b></p></li>
+<li><p><b>It can very well understand the sentiment of a text containing emoticons, slangs, conjunctions, capital words, punctuations and much more.</b></p></li>
+<li><p><b>It works excellent on social media text.</b></p></li>
+<li><p><b>VADER can work with multiple domains.<</b></p></li>
+</ul>
 
 ---
 
